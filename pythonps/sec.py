@@ -19,6 +19,11 @@ B =int(input("Enter number 2: " ))
 print ("A is Greater Than B is " ,A>B)"""
 
 # Write a program to find a average of a Two Number Entered By user
-A=int(input("Enter number 1: " ))
+A=int(input("Enter nummber 2 : "))
+B=int(input("Enter nummber 2 : "))
+print("Average is:" (A+B) / 2)
 
+#Write a program to find square 
+A=int(input("Enter number: "))
 print ("Square of  Number is :", A*A)
+
